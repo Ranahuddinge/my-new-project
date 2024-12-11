@@ -1,3 +1,4 @@
+
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
@@ -13,52 +14,37 @@ MealMatch is a simple AI-powered tool designed to suggest meal recipes based on 
 
 ## Background
 
-Problem: People often find themselves wondering what to cook with the ingredients they already have in their kitchens. This leads to frustration, unnecessary food waste, or reliance on takeout. Without a system to suggest easy recipes, many ingredients go unused, contributing to global food waste.
+* Problem: People often find themselves wondering what to cook with the ingredients they already have in their kitchens. This leads to frustration, unnecessary food waste, or reliance on takeout. Without a system to suggest easy recipes, many ingredients go unused, contributing to global food waste.
 
-How Common Is the Problem? The issue is widespread in households worldwide, particularly for busy professionals, students, or individuals who lack cooking expertise.
+* How Common Is the Problem? The issue is widespread in households worldwide, particularly for busy professionals, students, or individuals who lack cooking expertise.
 
-Personal Motivation: As a supporter of sustainability and simple solutions, I want to help people save time, money, and effort while minimizing food waste. MealMatch is a tool that can bring convenience to daily life and promote sustainable habits.
+* Personal Motivation: As a supporter of sustainability and simple solutions, I want to help people save time, money, and effort while minimizing food waste. MealMatch is a tool that can bring convenience to daily life and promote sustainable habits.
 
-Importance: Encouraging sustainability and reducing food waste are vital for combating global environmental issues. This project also improves users' cooking confidence and dietary variety.
+* Importance: Encouraging sustainability and reducing food waste are vital for combating global environmental issues. This project also improves users' cooking confidence and dietary variety.
 
 
 ## How is it used?
 
-Context and Users:
+* Context and Users:
 
-Home Cooks: Quick recipe ideas for dinner without needing a trip to the store.
+* Home Cooks: Quick recipe ideas for dinner without needing a trip to the store.
 
-Busy Professionals: Helps plan meals efficiently with minimal effort.
+* Busy Professionals: Helps plan meals efficiently with minimal effort.
 
-Students: Easy access to simple, budget-friendly recipes.
+* Students: Easy access to simple, budget-friendly recipes.
 
-Affected Groups:
+* Affected Groups:
 
 Direct Users: Benefit from reduced decision fatigue, reduced food waste, and improved meal planning.
 
 Society: Encourages sustainable habits and reduces food waste.
 
-
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
    # write your solution here
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+  The project doesn’t provide instructions for highly complex recipes or substitute unavailable ingredients.
 
 
 ## Data sources and AI methods
-Data Sources:
-
-Publicly available recipe datasets (e.g., Recipe1M+, Food.com dataset).
-
-User-generated input on available ingredients and dietary preferences.
-
 AI Techniques:
 
 Natural Language Processing (NLP): To process user-inputted ingredients and match them to relevant recipes.
@@ -82,12 +68,11 @@ The project doesn’t provide instructions for highly complex recipes or substit
 
 Limited to the quality and diversity of the recipe dataset used.
 
-## Potential Limitations:
+Potential Limitations:
 
 Users may have rare or unusual ingredients not found in the dataset.
 
 Requires accurate user input for optimal suggestions.
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## What next?
 
@@ -101,8 +86,7 @@ Integrate with voice assistants like Alexa or Google Assistant for hands-free su
 
 Include nutritional information or calorie tracking for health-conscious users.
 
-Create a mobile app version for broader accessibility. 
-
+Create a mobile app version for broader accessibility.
 
 ## Acknowledgments
 
