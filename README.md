@@ -39,7 +39,7 @@ Direct Users: Benefit from reduced decision fatigue, reduced food waste, and imp
 
 Society: Encourages sustainable habits and reduces food waste.
 
-   # write your solution here
+   # solution
 
   The project doesn’t provide instructions for highly complex recipes or substitute unavailable ingredients.
 
